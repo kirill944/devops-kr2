@@ -1,3 +1,4 @@
+# KR2: Соловьев
 import os
 import socket
 
